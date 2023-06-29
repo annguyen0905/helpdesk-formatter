@@ -1,0 +1,29 @@
+.ak-renderer-document{
+    padding-top: 5px;
+    word-wrap: break-word;
+    font-size: 16px;
+    line-height: 21px;
+    max-width: 600px;
+    padding-bottom: 30px;
+    font-family: "ProximaNova","Helvetica Neue",helvetica,arial,sans-serif;
+    
+}
+
+sup{
+    font-weight: bold;
+    color: brown;
+    font-weight: bold;
+}
+
+
+span[class*='FieldStyles__Span']{
+    font-weight:bold !important;
+    color: black !important;
+    font-size: 16px !important;
+}
+
+div[role='presentation']>span[class*='FieldStyles']{
+    font-weight:bold !important;
+    color: burlywood !important;
+    font-size: 14px !important;
+}
